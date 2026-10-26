@@ -1,0 +1,13 @@
+{
+  "autodeskProduct": "Fusion",
+  "type": "addin",
+  "id": "a253df27-ef47-4bb4-8819-d0b0bc9068b4",
+  "author": "G. Runion",
+  "description": {
+    "": "Mesh boundary curves, face-group sketch projection, best-fit planes, and 3-2-1 alignment."
+  },
+  "version": "0.8.1",
+  "runOnStartup": false,
+  "supportedOS": "windows|mac",
+  "editEnabled": true
+}
